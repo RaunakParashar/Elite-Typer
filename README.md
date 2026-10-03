@@ -1,2 +1,8 @@
-# Elite-Typer
-Elite Typer ⌨️ - Fast, minimal typing test with real-time WPM, accuracy &amp; Firebase leaderboard. Built with JS + Firebase.
+In today’s fast-paced digital landscape, typing swiftly and accurately is no longer just an administrative skill—it is a critical productivity multiplier for students, developers, writers, and working professionals. Whether you are drafting lengthy reports, writing lines of code, or preparing for high-stakes government and clerical typing examinations, your keyboard efficiency directly dictates your daily output. Elite Typer is an advanced, intuitive typing platform engineered to transform casual typists into high-speed touch-typing masters.
+Why Choose Elite Typer?
+Unlike conventional, monotonous typing tutors that rely on repetitive key-mashing, Elite Typer employs an engaging, data-driven approach. Built around a modern, distraction-free user interface, it enables you to focus purely on finger placement, rhythm, and muscle memory.
+Real-Time Performance Analytics: Receive instantaneous feedback on your Words Per Minute (WPM), net accuracy percentage, and key-stroke consistency after every single session.
+Targeted Error Diagnostics: The smart engine detects exactly which keys, finger combinations, or letter transitions slow you down, generating personalized drills to fix those specific weaknesses.
+Versatile Practice Modules: Progress smoothly from foundational home-row techniques to advanced challenges featuring complex programming syntax, technical vocabulary, and extended literature.
+Dynamic Difficulty Scaling: As your metrics improve, the platform automatically introduces more demanding text structures to keep you continually challenged and prevent learning plateaus.
+Global Leaderboards & Tests: Compete in real-time speed races against peers worldwide, participate in timed trials, and track your rank on daily and all-time leaderboards.
